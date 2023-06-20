@@ -1,0 +1,3 @@
+pip install yfinance
+pip install cufflinks
+pip install pandas
